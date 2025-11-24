@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Ueberson Marques",
+        "descricao": "Desenvolvedor front-End"
+    },
+    {
+        "nome": "John Shellby",
+        "descricao": "Desebvolvedor back-end"
+    },
+    {
+        "nome": "Tomas Shellby",
+        "descricao": "UI/UX Design"
+    },
+    {
+        "nome": "Arthur Shellby",
+        "descricao": "Banco de Dados"
+    },
+    {
+        "nome": "Finn Shellby",
+        "descricao": "Banco de Dados"
+    }
+]
